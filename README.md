@@ -1,1 +1,1 @@
-# Crypto-growth-investement-website
+# School website template. fully functional
